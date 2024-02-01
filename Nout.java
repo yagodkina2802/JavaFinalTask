@@ -18,8 +18,6 @@
 
 package ControlHWJava;
 
-// import java.util.Objects;
-
 
 public class Nout {
     private String model;
